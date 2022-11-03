@@ -2,7 +2,7 @@
 
 I'm Yeyao, an fourth year Computer Science student a the Univeristy of Edinburgh. 
 
-If you want to learn more about what I am up to, you can visit @Videosquared-Productions to check out more repositories (give me a message and I'll add you for any private repo's)
+<!-- If you want to learn more about what I am up to, you can visit @Videosquared-Productions to check out more repositories (give me a message and I'll add you for any private repo's) -->
 
 <!--
 **Videosquared/Videosquared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
