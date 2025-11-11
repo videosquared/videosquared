@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Yeyao, BSc Computer Science graduate from the Univeristy of Edinburgh. 
-
+I may look like I don't know what I'm doing but I promise you, I don't know what I'm doing.
 <!-- If you want to learn more about what I am up to, you can visit @Videosquared-Productions to check out more repositories (give me a message and I'll add you for any private repo's) -->
 
 <!--
